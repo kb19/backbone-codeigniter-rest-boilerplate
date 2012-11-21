@@ -1,14 +1,10 @@
 backbone-codeigniter-rest-boilerplate
 ==============================
 
-This is a quick way to set up a project that uses the following:
+Was making this for my own purposes and figured I'd put it here in case it could help anoyone else.
 
-Front-end: Backbone.js
-	- jQuery
-	- Bootstrap
-	- Mustache
-	- LoDash
+<strong>Front-end</strong>: Backbone.js w/ jQuery, Bootstrap, Mustache, LoDash
 
-Back-end:
-	- CodeIgniter
-	- Phil Sturgeon's Rest Library
+* The front-end / Backbone portion is completely derived / distilled from <a href="https://github.com/thomasdavis/backboneboilerplate">Thomas Davis' Backbone Boilerplate</a>. I just added in Mustache and enhanced Boostrap (responsive + bootstrap.js), changed some other things around as well as emptied out Thomas' stuff so it's a clean project that you can download and start right away.
+
+<strong>Back-end</strong>: CodeIgniter w/ Phil Sturgeon's Rest Library
