@@ -1,4 +1,14 @@
-backbonecodeigniterboilerplate
+backbone-codeigniter-rest-boilerplate
 ==============================
 
-Boilerplate project that sets up an environment containing Backbone (Bootstrap, Mustache, Underscore, Jquery) and CodeIgniter (using Phil Sturgeon's Rest library).
+This is a quick way to set up a project that uses the following:
+
+Front-end: Backbone.js
+	- jQuery
+	- Bootstrap
+	- Mustache
+	- LoDash
+
+Back-end:
+	- CodeIgniter
+	- Phil Sturgeon's Rest Library
